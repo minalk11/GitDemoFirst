@@ -3,7 +3,7 @@ package com.git.www;
 public class Demo2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//This is Demo 2
 
 	}
 
